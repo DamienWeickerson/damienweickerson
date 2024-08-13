@@ -6,8 +6,8 @@
 
 <h2>📃 Certifications</h2>
 
-- Network+ (🌱IN PROGRESS)
-- Security+ (🌱IN PROGRESS)
+- Network+ (🌱IN PROGRESS🌱)
+- Security+ (🌱IN PROGRESS🌱)
 
 <h2>📺 Popular YouTube Videos</h2>
 
